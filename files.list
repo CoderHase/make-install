@@ -1,0 +1,6 @@
+
++lib/make-install:
+	README.md
+	make-install
+	+uninstall
+
